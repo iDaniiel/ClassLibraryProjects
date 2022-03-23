@@ -1,0 +1,6 @@
+C:\Users\idani\OneDrive\Documentos\CURSOS\NET\CreacionBibliotecaClases\ClassLibraryProjects\StringLibrary\bin\Debug\StringLibrary.dll
+C:\Users\idani\OneDrive\Documentos\CURSOS\NET\CreacionBibliotecaClases\ClassLibraryProjects\StringLibrary\bin\Debug\StringLibrary.pdb
+C:\Users\idani\OneDrive\Documentos\CURSOS\NET\CreacionBibliotecaClases\ClassLibraryProjects\StringLibrary\obj\Debug\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\idani\OneDrive\Documentos\CURSOS\NET\CreacionBibliotecaClases\ClassLibraryProjects\StringLibrary\obj\Debug\StringLibrary.dll
+C:\Users\idani\OneDrive\Documentos\CURSOS\NET\CreacionBibliotecaClases\ClassLibraryProjects\StringLibrary\obj\Debug\StringLibrary.pdb
+C:\Users\idani\OneDrive\Documentos\CURSOS\NET\CreacionBibliotecaClases\ClassLibraryProjects\StringLibrary\obj\Debug\StringLibrary.csprojAssemblyReference.cache

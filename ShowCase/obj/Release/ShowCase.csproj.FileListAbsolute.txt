@@ -1,0 +1,9 @@
+C:\Users\idani\OneDrive\Documentos\CURSOS\NET\CreacionBibliotecaClases\ClassLibraryProjects\ShowCase\bin\Release\ShowCase.exe
+C:\Users\idani\OneDrive\Documentos\CURSOS\NET\CreacionBibliotecaClases\ClassLibraryProjects\ShowCase\bin\Release\ShowCase.pdb
+C:\Users\idani\OneDrive\Documentos\CURSOS\NET\CreacionBibliotecaClases\ClassLibraryProjects\ShowCase\bin\Release\StringLibrary.dll
+C:\Users\idani\OneDrive\Documentos\CURSOS\NET\CreacionBibliotecaClases\ClassLibraryProjects\ShowCase\bin\Release\StringLibrary.pdb
+C:\Users\idani\OneDrive\Documentos\CURSOS\NET\CreacionBibliotecaClases\ClassLibraryProjects\ShowCase\obj\Release\ShowCase.csprojAssemblyReference.cache
+C:\Users\idani\OneDrive\Documentos\CURSOS\NET\CreacionBibliotecaClases\ClassLibraryProjects\ShowCase\obj\Release\ShowCase.csproj.CoreCompileInputs.cache
+C:\Users\idani\OneDrive\Documentos\CURSOS\NET\CreacionBibliotecaClases\ClassLibraryProjects\ShowCase\obj\Release\ShowCase.csproj.CopyComplete
+C:\Users\idani\OneDrive\Documentos\CURSOS\NET\CreacionBibliotecaClases\ClassLibraryProjects\ShowCase\obj\Release\ShowCase.exe
+C:\Users\idani\OneDrive\Documentos\CURSOS\NET\CreacionBibliotecaClases\ClassLibraryProjects\ShowCase\obj\Release\ShowCase.pdb
